@@ -83,6 +83,10 @@ create table itens_pedidos (
 
 -- INSERINDO ADMINISTRADOR PARA EFETUAR LOGIN
 INSERT INTO usuarios (nome_usuario,cpf_usuario,email_usuario,tipo_usuario,telefone__usuario)
+<<<<<<< HEAD
 VALUES ("Admin","111.111.111-11","admin@admin.com", "administrador", "(17)99999-999");
+=======
+VALUES ("Luciene","111.111.111-11","admin@luciene.com", "administrador", "(17)99999-999");
+>>>>>>> e165d25dd6d4a24534f84c2bc19039c93be6fcc4
 
 INSERT INTO administradores (cod_usuario, senha_admin) VALUES (1,"admin");
