@@ -1,2 +1,4 @@
-# projeto-semestral-lp1
-Projeto de controle de vendas
+# Projeto Controle de Vendas
+## Acesso admin:
+Email: admin@admin.com
+Senha: admin
